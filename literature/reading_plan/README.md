@@ -1,4 +1,4 @@
-# Literature Reading Plan
+﻿# Literature Reading Plan
 
 本阅读计划面向未来 1 周，目标是在暂停模型开发期间建立土壤高光谱深度学习方向的研究基础。
 

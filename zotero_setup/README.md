@@ -1,4 +1,4 @@
-# Zotero Setup
+﻿# Zotero Setup
 
 This folder contains the script used to create the Zotero collection structure for the soil hyperspectral deep learning literature project.
 

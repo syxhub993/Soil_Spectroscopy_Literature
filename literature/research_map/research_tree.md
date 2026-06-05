@@ -1,4 +1,4 @@
-# Soil Hyperspectral Deep Learning Research Map
+﻿# Soil Hyperspectral Deep Learning Research Map
 
 本文件用于构建土壤高光谱深度学习方向的研究地图，帮助后续阅读论文时定位每篇文章属于哪个问题、数据类型和方法路线。
 

@@ -1,4 +1,4 @@
-# Soil Hyperspectral Deep Learning Literature Library
+﻿# Soil Hyperspectral Deep Learning Literature Library
 
 本目录用于建立土壤高光谱与深度学习方向的文献研究库，服务于未来一周的集中调研。
 
